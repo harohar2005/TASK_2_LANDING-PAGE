@@ -37,7 +37,7 @@ header nav a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(red, blue);
+    background: yellow;
     padding: 60px 40px;
     color: #d5ed68;
 }
