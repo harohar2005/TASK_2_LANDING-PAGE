@@ -37,7 +37,7 @@ header nav a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: yellow;
+    background: pink;
     padding: 60px 40px;
     color: #d5ed68;
 }
