@@ -37,7 +37,7 @@ header nav a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    background: linear-gradient(217deg, rgb(255 0 0 / 0.8), transparent 70.71%);
     padding: 60px 40px;
     color: white;
 }
